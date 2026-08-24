@@ -1,4 +1,4 @@
-#NAIST-ZHOU
+# NAIST-Informatics
 ## About
 Reference documents, exam questions, and my own research proposal used during the NAIST preparation period.
 Some parts use other people's public documents and are not entirely original.
